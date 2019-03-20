@@ -3162,6 +3162,9 @@ I wrote the following letter to a young woman in poor
 health--her disorder thought to be a consumption,
 now making a rapid progress.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Rahway, 7th mo. 28th, 1813.
 
@@ -3221,6 +3224,8 @@ I remain your affectionate friend,
 
 [.signed-section-signature]
 Isaac Martin.
+
+--
 
 The 26th of the 8th month, this dear young woman departed this life,
 in a comfortable state of mind; having expressed that she had no desire to stay here.
